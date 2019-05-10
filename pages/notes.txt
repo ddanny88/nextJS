@@ -1,0 +1,4 @@
+The pages directory is the routing system, you dont have to bring in react router.  
+Just create your components and export them.
+
+Hot code reloading: changes are implemented immedietly. 
